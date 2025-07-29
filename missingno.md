@@ -1,4 +1,4 @@
-### Example: Visualizing Missing Values with `missingno`
+###  Visualizing Missing Values with `missingno`
 
 You can easily create all three types of plots using the following code:
 
