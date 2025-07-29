@@ -17,7 +17,7 @@ plt.show()
 # Visualize a heatmap (shows correlation of missingness between columns)
 msno.heatmap(df)
 plt.show()
-
+```
 ## 📊 Interpreting Missing Data Visualizations with `missingno` in the Ames Housing Dataset
 
 When cleaning and exploring your data, **visualizing missing values** is a crucial step in exploratory data analysis (EDA). The [`missingno`](https://github.com/ResidentMario/missingno) library makes this easy with a variety of intuitive plots. Here’s a guide to interpreting the main `missingno` plots, using the Ames Housing dataset as an example:
